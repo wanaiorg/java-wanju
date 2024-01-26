@@ -48,3 +48,9 @@ https://github.com/dsadsadsss/PHP-wanju.git
 本仓库仅为自用备份，非开源项目，因为需要外链必须公开，但是任何人不得私自下载, 如果下载了，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权。 
 
 如果你使用本仓库文件，造成的任何责任与本人无关, 本人不对使用者任何不当行为负责。
+
+
+slicehosting官网：https://dash.slicehosting.tech/
+搭建节点代码：https://github.com/dsadsadsss/java-wanju
+节点信息生成小工具：https://github.com/shiteThings/slicehosting
+
